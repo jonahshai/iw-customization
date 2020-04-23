@@ -12,8 +12,8 @@ landing:
   quickLink: <a href="/get-started">Start here</a>.
 
 footer:
-  helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
-  defaultEmail: test.user@nytimes.com
+  helpText: For help or to make a change, consult <a href="mailto:admin@injusticewatch.org subject='IW style guide'">the page administrators/a>.
+  defaultEmail: admin@injusticewatch.org
 
 search:
   placeholder: Search for a term
