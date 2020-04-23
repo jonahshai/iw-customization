@@ -1,9 +1,9 @@
 branding:
-  name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
-  prettyName: About Library
-  favicon: /assets/images/library.ico
+  name: Injustice Watch Style Guide
+  org: Injustice Watch
+  orgDomain: injusticewatch.org
+  prettyName: IW Style Guide
+  favicon: /assets/images/iw-favicon.ico
 
 landing:
   tagline: A simple documentation site, built from content in Google Docs.
@@ -15,7 +15,7 @@ footer:
   defaultEmail: test.user@nytimes.com
 
 search:
-  placeholder: What do you want to know about Library?
+  placeholder: Search for a term
   results:
     none:
       suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on Github</a>.
@@ -24,4 +24,3 @@ search:
 error:
   403:
     message: "<p>For this documentation site, we've disabled the final step of the Move File workflow. Normally, this request would succeed and you'd be taken to the new url for your page.</p>"
-
