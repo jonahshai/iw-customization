@@ -3,8 +3,8 @@ branding:
   org: Injustice Watch
   orgDomain: injusticewatch.org
   prettyName: Injustice Watch Style Guide
-  favicon: https://www.injusticewatch.org/favicon-16x16.png
-  icon: https://www.injusticewatch.org/wp-content/uploads/iw-logo-square.svg
+  favicon: https://raw.githubusercontent.com/jonahshai/iw-customization/master/assets/images/iw-favicon.ico
+  icon: https://raw.githubusercontent.com/jonahshai/iw-customization/master/assets/images/iw-logo-square.svg
 
 landing:
   tagline: A style and ethics guide for Injustice Watch reporters, editors, and interns
