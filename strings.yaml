@@ -4,7 +4,7 @@ branding:
   orgDomain: injusticewatch.org
   prettyName: Injustice Watch Style Guide
   favicon: /assets/images/iw-favicon.ico
-  icon: /assets/images/iw-logo-square.png
+  icon: /assets/images/iw-logo-square.svg
 
 landing:
   tagline: A style and ethics guide for Injustice Watch
