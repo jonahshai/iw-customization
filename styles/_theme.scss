@@ -7,8 +7,8 @@ $font-branding: 'Arvo', bold;
 $font-headline: 'Open Sans', sans-serif;
 $font-sans: 'Open Sans', sans-serif;
 
-// Color
 //------------------------------------------------------------------------------
+// Colors
 $white        : #fff;
 $black        : #000;
 $gray-10      : mix($white, $black, 10%);  // #1a1a1a
@@ -30,12 +30,12 @@ $accent: #E16D6D;
 $accent-light: lighten($accent, 10%);
 $accent-lightest: #FCF6F6;
 $accent-dark: darken($accent, 15%);
-$text-color: #000000
+$text-color: #000000;
 
 //------------------------------------------------------------------------------
 // Default Light Theme (NYTimes Library vars)
 
-$masthead-background: $accent;
+$masthead-background: $gray-10;
 $main-homepage-background: $white;
 $main-homepage-icon-color: $text-color;
 $main-homepage-icon-border: $text-color;
