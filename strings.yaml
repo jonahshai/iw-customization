@@ -1,14 +1,15 @@
 branding:
-  name: Injustice Watch Style Guide
+  name: IW Style Guide
   org: Injustice Watch
   orgDomain: injusticewatch.org
-  prettyName: IW Style Guide
+  prettyName: Injustice Watch Style Guide
   favicon: /assets/images/iw-favicon.ico
+  logo: /assets/images/iw-logo-square
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
-  viewAll: View All Docs
-  quickLink: <a href="/get-started">Get started</a>.
+  tagline: A style guide for Injustice Watch reporters.
+  viewAll: View All Entries
+  quickLink: <a href="/get-started">Start here</a>.
 
 footer:
   helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
