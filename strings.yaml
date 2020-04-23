@@ -35,4 +35,4 @@ error:
   404:
     title: Page Not Found
     heading: Whoops, that's a 404.
-    message: Try another search term? Or <a href = "https://iw-style-guide.herokuapp.com/categories">click here</a> to go back to the main page.
+    message: Try another search term? Or <a href = "https://iw-style-guide.herokuapp.com">click here</a> to go back to the home page.
