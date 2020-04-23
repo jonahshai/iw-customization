@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo|Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
 $font-branding: 'Arvo', bold;
-$font-headline: 'Open Sans', sans-serif;
+$font-headline: 'Arvo', sans-serif;
 $font-sans: 'Open Sans', sans-serif;
 
 //------------------------------------------------------------------------------
@@ -26,9 +26,9 @@ $gray-80      : mix($white, $black, 80%);  // #cccccc
 $gray-90      : mix($white, $black, 90%);  // #e6e6e6
 
 $offwhite: #ececec;
-$accent: #E16D6D;
+$accent: #F28929;
 $accent-light: lighten($accent, 10%);
-$accent-lightest: #FCF6F6;
+$accent-lightest: #fff7f0;
 $accent-dark: darken($accent, 15%);
 $text-color: #000000;
 
