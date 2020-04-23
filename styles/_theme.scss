@@ -1,9 +1,9 @@
 // Fonts
 //------------------------------------------------------------------------------
 // Font imports
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Arvo|Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
-$font-branding: 'Alfa Slab One', cursive;
+$font-branding: 'Arvo', bold;
 $font-headline: 'Open Sans', sans-serif;
 $font-sans: 'Open Sans', sans-serif;
 
@@ -30,7 +30,3 @@ $elem-link-color: $gray-80;
 $elem-active-link-color: $gray-30;
 $elem-link-accent: $accent-light;
 $nav-text-color: $gray-70;
-
-.logo {
-  filter: invert(100%);
-}
