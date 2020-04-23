@@ -10,6 +10,13 @@ landing:
   tagline: A style and ethics guide for Injustice Watch reporters, editors, and interns
   viewAll: View All Entries
   quickLink: false
+  modules:
+    - tag: team
+      label: Categories
+      style: button
+    - tag: featured
+      label: Table of Contents
+      style: docs
 
 footer:
   helpText: For help or to make a change, consult <a href="mailto:admin@injusticewatch.org?subject=IW style guide">the editors</a>.
@@ -25,3 +32,7 @@ search:
 error:
   403:
     message: "<p>For this documentation site, we've disabled the final step of the Move File workflow. Normally, this request would succeed and you'd be taken to the new url for your page.</p>"
+  404:
+    title: Page Not Found
+    heading: Whoops, that's a 404.
+    message: Try another search term? Or <a href = "https://iw-style-guide.herokuapp.com/categories">click here</a> to go back to the main page.
