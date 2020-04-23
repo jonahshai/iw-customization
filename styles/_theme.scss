@@ -7,7 +7,8 @@ $font-branding: 'Arvo', bold;
 $font-headline: 'Open Sans', sans-serif;
 $font-sans: 'Open Sans', sans-serif;
 
-// Colors
+// Color
+//------------------------------------------------------------------------------
 $white        : #fff;
 $black        : #000;
 $gray-10      : mix($white, $black, 10%);  // #1a1a1a
@@ -29,7 +30,7 @@ $accent: #E16D6D;
 $accent-light: lighten($accent, 10%);
 $accent-lightest: #FCF6F6;
 $accent-dark: darken($accent, 15%);
-$text-color: #000
+$text-color: #000000
 
 //------------------------------------------------------------------------------
 // Default Light Theme (NYTimes Library vars)
