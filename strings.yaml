@@ -1,25 +1,25 @@
 branding:
-  name: IW Style Guide
+  name: Injustice Watch Style Guide
   org: Injustice Watch
   orgDomain: injusticewatch.org
   prettyName: Injustice Watch Style Guide
   favicon: /assets/images/iw-favicon.ico
-  logo: /assets/images/iw-logo-square
+  icon: /assets/images/iw-logo-square.png
 
 landing:
-  tagline: A style guide for Injustice Watch reporters.
+  tagline: A style and ethics guide for Injustice Watch
   viewAll: View All Entries
-  quickLink: <a href="/get-started">Start here</a>.
+  quickLink: false
 
 footer:
-  helpText: For help or to make a change, consult <a href="mailto:admin@injusticewatch.org subject='IW style guide'">the page administrators/a>.
+  helpText: For help or to make a change, consult <a href="mailto:admin@injusticewatch.org?subject=IW style guide">the editors</a>.
   defaultEmail: admin@injusticewatch.org
 
 search:
   placeholder: Search for a term
   results:
     none:
-      suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on Github</a>.
+      suggestion: For help or to make a change, consult <a href="mailto:admin@injusticewatch.org?subject=IW style guide">the editors</a>.
 
 # errors
 error:
